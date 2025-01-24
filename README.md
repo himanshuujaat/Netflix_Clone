@@ -26,6 +26,8 @@ Integrate a backend for dynamic content.
 Contributions 🤝
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
 
+preview of this site : http://127.0.0.1:3000/index.html
+
 👋 About Me
 Hi, I'm Himanshu 👨‍💻, a passionate tech enthusiast and recent BTech graduate from Faridabad, seeking opportunities to make an impact in the tech field. I enjoy building projects that solve real-world problems and exploring creative solutions through technology.
 
