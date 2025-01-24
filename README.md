@@ -14,7 +14,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/himanshuujaat/Netflix_Clone
 Open the index.html file in any web browser.
 Explore the UI and enjoy the design!
 Screenshots 📸
